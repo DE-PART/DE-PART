@@ -6,12 +6,7 @@ DE-PART 是一个开源项目，结合IPFS 和代理重加密技术(Proxy Re-Enc
 4. 数据使用代理重加密技术(Proxy Re-Encryption) 去中心化存储，保证数据的安全性。
 5. 密码学技术保证数据使用权归病人所有。
 
-项目应用框架如下：
-
-![image-20210826182713034](/Users/cxh/Library/Application Support/typora-user-images/image-20210826182713034.png)
-![image-20210826182622714](/Users/cxh/Library/Application Support/typora-user-images/image-20210826182622714.png)
-
-在该架构中：
+在我们的架构中：
 
 - 使用PlatONE 联盟链存储病历的哈希信息，保障病历数据的可溯源及不可篡改。由万向区块链背书，建立“医院-药房-保险公司联盟”，管理医院及医生资质，同时管理保险公司和药房的准入。
 
